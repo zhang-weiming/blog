@@ -1,0 +1,21 @@
+# 通用
+
+## 在线电视直播
+
+### 全球资源
+> https://github.com/iptv-org/iptv
+
+### 国内地方卫视
+> https://gitee.com/dyanj311/iptv/blob/master/%E5%9C%B0%E6%96%B9%E5%8D%AB%E8%A7%86.m3u
+
+### 参考
+
+> https://blog.csdn.net/weixin_33272515/article/details/112088168
+
+# Windows
+
+## 自动切换浅、深色主题
+
+> https://github.com/Armin2208/Windows-Auto-Night-Mode/
+
+release 有打包好的exe，直接下载安装
