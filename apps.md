@@ -1,3 +1,8 @@
+---
+layout: page
+title: Apps
+permalink: /apps/
+---
 # 通用
 
 ## 在线电视直播
