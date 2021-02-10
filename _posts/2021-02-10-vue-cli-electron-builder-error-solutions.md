@@ -11,6 +11,10 @@ In these days, I was learning vue & electron. So when I meet the error, I will r
 - @vue/cli (cli@v4.x, Vue@2.x)
 - vue-cli-electron-builder
 
+My project was created by following this [article](https://itnext.io/electron-application-with-vue-js-and-vuetify-f2a1f9c749b8).
+
+And yarn is recommended than npm.
+
 ## solutions
 
 ### App/Tray Icon is not getting loaded
