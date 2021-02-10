@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Solutions of error"
-date:   2021-01-31 22:22:09 +0800
-categories: app
+title:  "vue-cli-electron-builder solutions of error"
+date:   2021-02-10 14:31:09 +0800
+categories: programming, vue, electron, front-end
 ---
 In these days, I was learning vue & electron. So when I meet the error, I will record my searching result of the solutions. Hope this is helpful to you!
 
